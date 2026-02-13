@@ -1,1 +1,1 @@
-# DND-Aura-Internship-task
+# Python-Assignment-week-01(1,2)
